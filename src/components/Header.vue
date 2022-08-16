@@ -32,7 +32,8 @@ export default {
               {{ title }}
             </h5>
           </a>
-          <Button />
+          <Button text="Add Task" color="green" />
+          <Button text="Add Task" color="red" />
           </div>
           <div class="p-5">
           <p class="font-normal text-gray-700 mb-3">
